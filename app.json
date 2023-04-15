@@ -1,0 +1,24 @@
+{
+    "name": "Merge Premium Bot-Heroku",
+    "description": "Merge Premium Bot with Heroku Deploy",
+    "keywords": [
+      "telegram"
+    ],
+    "stack": "container",
+    "repository": "https://github.com/Tamilupdates/Merge-Premium-Bot-Heroku",
+    "env": {
+        "CONFIG_FILE_URL": {
+            "description": "Config File URL",
+            "required": true
+        }
+    },
+    "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "eco"
+    }
+  }
+}
+
+
+
