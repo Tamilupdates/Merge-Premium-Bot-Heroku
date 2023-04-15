@@ -1,1 +1,1 @@
-FROM nanthakps/KPS-Link-Converter-Bot
+FROM nanthakps/kps-link-converter-bot
