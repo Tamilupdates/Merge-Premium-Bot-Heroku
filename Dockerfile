@@ -1,1 +1,3 @@
-FROM nanthakps/kps-link-converter-bot
+FROM nanthakps/merge-premium-bot
+
+COPY . .
