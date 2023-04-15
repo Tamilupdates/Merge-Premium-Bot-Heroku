@@ -1,11 +1,11 @@
 {
-    "name": "Auto Filter Bot",
-    "description": "Auto Filter Bot with Heroku Deploy",
+    "name": "KPS Link Converter Bot-Heroku",
+    "description": "KPS Link Converter Bot-Heroku",
     "keywords": [
       "telegram"
     ],
     "stack": "container",
-    "repository": "https://github.com/Tamilupdates/Auto-Filter-Bot-Railway",
+    "repository": "https://github.com/Tamilupdates/KPS-Link-Converter-Bot-Heroku",
     "env": {
         "CONFIG_FILE_URL": {
             "description": "Config File URL",
