@@ -1,3 +1,3 @@
-## ***Auto-Filter-Bot-Heroku*** 
+## ***KPS-Link-Converter-Bot-Heroku*** 
 [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Tamilupdates/KPS-Link-Converter-Bot-Heroku)
 
